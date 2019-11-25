@@ -1,0 +1,24 @@
+<!--<?xml version="1.0" encoding="UTF-8" ?>-->
+<!--<!DOCTYPE mapper-->
+        <!--PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"-->
+        <!--"http://mybatis.org/dtd/mybatis-3-mapper.dtd">-->
+<!--<mapper namespace="com.liujie.server.mapper.EmployeeMapper">-->
+    <!--&lt;!&ndash;public int insert(Employee employee);&ndash;&gt;-->
+    <!--<select id="insert">-->
+        <!--INSERT INTO employee(lastName,email,gender,d_id) VALUES (#{lastName},#{email},#{gender},#{dId})-->
+    <!--</select>-->
+    <!--&lt;!&ndash;    public int deleteById(int id);&ndash;&gt;-->
+    <!--<delete id="deleteById">-->
+        <!--DELETE FROM employee WHERE id=#{id}-->
+    <!--</delete>-->
+    <!--&lt;!&ndash;    public int update(Department department);&ndash;&gt;-->
+    <!--<update id="update">-->
+        <!--UPDATE employee SET lastName=#{lastName},email=#{email},gender=#{gender},d_id=#{dId} WHERE id=#{id}-->
+    <!--</update>-->
+
+    <!--&lt;!&ndash;    public Employee selectById(int id);&ndash;&gt;-->
+    <!--<select id="selectById" resultType="com.liujie.server.bean.Employee">-->
+        <!--SELECT * FROM employee WHERE id=#{id}-->
+    <!--</select>-->
+
+<!--</mapper>-->
