@@ -23,7 +23,12 @@ import java.time.Duration;
 
 /**
  * @program: spring_cache
- * @description:
+ * @description: RedisConfig类是将有关Redis的配置信息进行统一的配置，
+ *              包括1.重写Redis序列化方式，使用Json方式
+ *              2.配置缓存管理器
+ *              3.以及RedisTemplate模板
+ *
+ *
  * @author: LiuJie
  * @create: 2019-11-22 14:13
  **/
